@@ -33,7 +33,7 @@ travel, investment, blockchain.
 ###### SKILLS
 * Superficial
 * English [technical] - read, translate, can express myself.
-* Tech savvy. 
+* Tech savvy 
 * Administration of Linux and Windows server. 
 
 
