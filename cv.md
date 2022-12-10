@@ -34,8 +34,8 @@ travel, investment, blockchain.
 
 * English [technical] - read, translate, can express myself.
 * Tech savvy 
-* Administration of Linux and Windows server. 
 * Superficial
+* Administration of Linux and Windows server. 
 
 ###### Code example: 
 ```java
