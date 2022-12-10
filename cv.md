@@ -45,5 +45,4 @@ function multiply(a, b){
 }
 ```
 ###### My project: 
-
 https://humagets.github.io/rsschool-cv/cv
