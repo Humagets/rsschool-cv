@@ -31,10 +31,11 @@ Hobbies: constant study of something new (self-development),
 travel, investment, blockchain.
  
 ###### SKILLS
-* Superficial
+
 * English [technical] - read, translate, can express myself.
 * Tech savvy 
 * Administration of Linux and Windows server. 
+* Superficial
 
 ###### Code example: 
 ```java
