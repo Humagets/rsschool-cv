@@ -7,7 +7,7 @@
 * linkedin.com/in/humagets 
 
 
-##### About myself
+##### About myself 
 
 04.04.1989, full years: 32, Belarus, Vitebsk 
 
