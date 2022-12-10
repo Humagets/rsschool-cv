@@ -33,10 +33,10 @@ travel, investment, blockchain.
  
 ###### SKILLS
 
-* English [technical] - read, translate, can express myself.
+* English [technical] - read, translate, can express myself
 * Tech savvy 
 * Superficial
-* Administration of Linux and Windows server. 
+* Administration of Linux and Windows server
 
 ###### Code example: 
 ```java
