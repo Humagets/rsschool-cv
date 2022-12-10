@@ -25,7 +25,7 @@
   - come up with solutions to seemingly intractable
   - organize and manage
   - multiple priorities simultaneously
-  - can work under
+  - can work under    
 
 ###### Marital status: married, has children and a cat.
 Hobbies: constant study of something new (self-development),
