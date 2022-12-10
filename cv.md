@@ -15,8 +15,8 @@
 * IDE: VS Code, Sublime Text
 * Git (GitHub)
 * OS: Windows, UNIX/Linux
-* Java (basics)
 * Docker
+* Java (basics)
 
 ###### Personal qualities: 
   
