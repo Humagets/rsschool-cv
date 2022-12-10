@@ -4,7 +4,7 @@
 * humagets@gmail.com
 * https://discordapp.com/users/humagets#0321
 * https://t.me/humagets
-* linkedin.com/in/humagets
+* linkedin.com/in/humagets 
 
 
 ##### About myself
