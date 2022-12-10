@@ -1,6 +1,6 @@
 # RUSLAN BEREZKO 
 
-* Тел: +375 29 7133962
+* Тел: +375 29 7133962;
 * https://discordapp.com/users/humagets#0321
 * humagets@gmail.com
 * linkedin.com/in/humagets
