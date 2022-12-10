@@ -17,6 +17,7 @@
 * Docker
 * Java (basics)
 
+
 ###### Personal qualities: 
   
   - pressure and to tight
