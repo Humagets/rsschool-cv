@@ -1,1 +1,1 @@
-https://humagets.github.io/rsschool-cv/
+https://github.com/Humagets/rsschool-cv/tree/rsschool-cv-html
